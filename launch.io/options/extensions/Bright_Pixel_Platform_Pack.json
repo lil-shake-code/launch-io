@@ -1,0 +1,9 @@
+{
+  "resourceType": "GMExtensionConfigSet",
+  "configurables": null,
+  "extensionId": {
+    "name": "Bright_Pixel_Platform_Pack",
+    "path": "extensions/Bright_Pixel_Platform_Pack/Bright_Pixel_Platform_Pack.yy"
+  },
+  "resourceVersion": "1.0"
+}
